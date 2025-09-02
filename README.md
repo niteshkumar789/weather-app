@@ -46,7 +46,7 @@ The app fetches live weather data using the **OpenWeatherMap API**.
 
 1️⃣ Clone the Repository
 
-- `git clone https://github.com/your-username/weather-app.git`
+- `git clone https://github.com/niteshkumar789/weather-app.git`
 - `cd weather-app`
 
 2️⃣ Add Your API Key
