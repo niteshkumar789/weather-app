@@ -50,9 +50,9 @@ The app fetches live weather data using the **OpenWeatherMap API**.
 
 ### 2️⃣ Add Your API Key
 
-This project uses OpenWeatherMap API.
-Replace the placeholder in index.js with your own API key:
-const API_KEY = "YOUR_API_KEY_HERE";
+- This project uses OpenWeatherMap API.
+- Replace the placeholder in index.js with your own API key:
+- const API_KEY = "YOUR_API_KEY_HERE";
 
 
 ### 3️⃣ Run the App
