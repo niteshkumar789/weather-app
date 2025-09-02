@@ -43,19 +43,19 @@ The app fetches live weather data using the **OpenWeatherMap API**.
 
 ## 🔑 Getting Started
 
-### 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 
 `git clone https://github.com/your-username/weather-app.git`
 `cd weather-app`
 
-### 2️⃣ Add Your API Key
+2️⃣ Add Your API Key
 
 - This project uses OpenWeatherMap API.
 - Replace the placeholder in index.js with your own API key:
 - const API_KEY = "YOUR_API_KEY_HERE";
 
 
-### 3️⃣ Run the App
+3️⃣ Run the App
 
 Simply open index.html in your browser.
 
